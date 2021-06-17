@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2438-E158
+
+ Directory of C:\Users\Vijaya\Desktop\MyProjectGit
+
+06/17/2021  12:46 AM    <DIR>          .
+06/17/2021  12:46 AM    <DIR>          ..
+06/17/2021  12:46 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,711,806,976 bytes free
